@@ -305,7 +305,7 @@
 
     <button class="connect" id="connectBtn">Connect Wallet</button>
 
-    <div class="card-footer">Demo UI — no real swap. Click "Select a token" to pick a sample token.</div>
+    <div class="card-footer"> Click "Select a token" to pick a sample token.</div>
   </div>
 
   <script>
