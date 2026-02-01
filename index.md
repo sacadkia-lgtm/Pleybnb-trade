@@ -387,7 +387,7 @@
 
       // Connect Wallet button (visual only)
       document.getElementById('connectBtn').addEventListener('click', ()=>{
-        alert('This is a demo UI. Connect Wallet is not implemented here.');
+        alert(' Connect Wallet is not implemented here.');
       });
     })();
   </script>
